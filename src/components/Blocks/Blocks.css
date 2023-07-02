@@ -1,0 +1,29 @@
+.listBlocks {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: calc(90vh - 140px);
+    padding: 60px;
+  }
+  
+ 
+   .blocks-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    height:100%;
+  }
+    
+  .block {
+    background-color: rgb(209, 3, 0);
+    color: #e1d8d8;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px;
+    text-align: center;
+    transition-duration: 150ms;
+    transition-property: height;
+    transition-timing-function: ease-in;
+  }
+  
