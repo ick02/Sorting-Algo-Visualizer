@@ -7,7 +7,7 @@ https://64a19c440e35136cbd3f9093--statuesque-chaja-7a90d2.netlify.app/
 ## Setting Up & Running the application
 
 ```
-  $ git clone https://github.com/Shubh1815/Sorting-Visualizer.git
+
   $ cd sorting-visualizer
   $ npm install
   $ npm start
